@@ -52,9 +52,6 @@
 
 /* About */
 
-#about {
-  @apply flex py-32 px-20;
-}
 
 .col-50 {
   width: 50%;
@@ -103,4 +100,65 @@
 .menu-card {
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
     rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+/* Footer */
+
+.footer{
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.Hours{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.col-20{
+  width: 20%;
+}
+
+/* Footer */
+
+#footer {
+  height: 50vh;
+  @apply bg-black flex flex-col;
+}
+
+.copyright {
+  background-color: #262626;
+}
+
+.hoveriser:hover .fa-icons {
+  transition: 0.3s;
+  color: white;
+}
+
+@media (max-width:768px) {
+  .header {
+    @apply flex py-10 px-9 items-center fixed w-full;
+  }
+
+  .bg-home {
+      background-position: center center;
+  }
+
+  .nav-menu.active {
+      display: block;
+      @apply bg-red-500
+  }
+
+  header.sticky .ham {
+      @apply bg-red-500
+  }
+
+  header.sticky .hamburger-react div {
+      background: gray !important;
+  }
+
+  header.sticky .ham-menu {
+      @apply top-20
+  }
 }
