@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/zfn-resto/static/css/main.6be00cc2.css",
-    "main.js": "/zfn-resto/static/js/main.645c9980.js",
-    "index.html": "/zfn-resto/index.html",
-    "main.6be00cc2.css.map": "/zfn-resto/static/css/main.6be00cc2.css.map",
-    "main.645c9980.js.map": "/zfn-resto/static/js/main.645c9980.js.map"
+    "main.css": "/ZFN-Resto/static/css/main.6be00cc2.css",
+    "main.js": "/ZFN-Resto/static/js/main.645c9980.js",
+    "index.html": "/ZFN-Resto/index.html",
+    "main.6be00cc2.css.map": "/ZFN-Resto/static/css/main.6be00cc2.css.map",
+    "main.645c9980.js.map": "/ZFN-Resto/static/js/main.645c9980.js.map"
   },
   "entrypoints": [
     "static/css/main.6be00cc2.css",
