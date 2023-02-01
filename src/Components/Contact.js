@@ -5,16 +5,13 @@ import "aos/dist/aos.css";
 const contact = () => {
   return (
     <section id="contact" className="flex p-32 max-lg:flex-col max-lg:px-4" >
-      <div className="w-1/2 flex flex-col items-center max-lg:w-full" data-aos="fade-up" data-aos-delay="500">
+      <div className="w-1/2 flex flex-col items-center max-lg:w-full" data-aos="fade-up" data-aos-delay="700">
         <div className="flex flex-col">
           <h2 className="title -mb-8 max-lg:text-6xl max-lg:text-center">Contact</h2>
           <h2 className="subtitle z-10 max-lg:text-5xl max-lg:mt-1 max-lg:text-center">Let's Chat</h2>
         </div>
         <p className="text-gray-400 leading-relaxed max-lg:px-4 mt-4 text-center">
-          Voluptatibus quaerat laboriosam fugit non Ut consequatur animi est
-          molestiae enim a voluptate totam natus modi debitis dicta impedit
-          voluptatum quod sapiente illo saepe explicabo quisquam perferendis
-          labore et illum suscipit
+          Jika anda ingin Memberikan masukan, saran, atau pertanyaan bisa menghubungi kami lewat fitur ini 
         </p>
       </div>
       <div className="w-1/2 max-lg:w-full px-10 max-lg:mt-5 max-lg:px-2" data-aos="fade-up-left" data-aos-delay="1000">
@@ -51,4 +48,6 @@ const contact = () => {
     </section>
   );
 };
+
+
 export default contact;

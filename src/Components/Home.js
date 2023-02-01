@@ -10,8 +10,7 @@ const Home = () => {
         <h2 className="title -mb-8 max-lg:text-6xl" data-aos="fade-down">Welcome</h2>
         <h4 className="subtitle text-white z-10 max-lg:text-5xl" data-aos-delay="500" data-aos="fade-up">zfn Resto</h4>
         <p className="minititle max-lg:text-center max-lg:text-sm ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae,
-          molestias.
+          Temukan Makanan Terbaik dan favoritemu di website ZFN Resto 
         </p>
         </div>
       </div>

@@ -64,7 +64,7 @@ const Menu = () => {
         <div className="subtitle text-white z-10 max-lg:text-5xl">Our Menu</div>
 
         <div className="m-10 p-5 bg-white w-full h-full rounded-md flex flex-wrap gap-8 justify-center items-center">
-          {meals?.slice(0, 6).map((meal) => (
+          {meals?.slice(0, 9).map((meal) => (
             <>
               <div
                 className="menu-card border w-1/4 h-auto rounded-lg max-lg:text-xs max-lg:w-full"
