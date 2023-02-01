@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ZFN-Resto/static/css/main.6be00cc2.css",
-    "main.js": "/ZFN-Resto/static/js/main.645c9980.js",
+    "main.js": "/ZFN-Resto/static/js/main.96d70442.js",
     "index.html": "/ZFN-Resto/index.html",
     "main.6be00cc2.css.map": "/ZFN-Resto/static/css/main.6be00cc2.css.map",
-    "main.645c9980.js.map": "/ZFN-Resto/static/js/main.645c9980.js.map"
+    "main.96d70442.js.map": "/ZFN-Resto/static/js/main.96d70442.js.map"
   },
   "entrypoints": [
     "static/css/main.6be00cc2.css",
-    "static/js/main.645c9980.js"
+    "static/js/main.96d70442.js"
   ]
 }
