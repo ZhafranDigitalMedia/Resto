@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ZFN-Resto/static/css/main.6be00cc2.css",
-    "main.js": "/ZFN-Resto/static/js/main.96d70442.js",
+    "main.css": "/ZFN-Resto/static/css/main.74f4a888.css",
+    "main.js": "/ZFN-Resto/static/js/main.43c8efad.js",
     "index.html": "/ZFN-Resto/index.html",
-    "main.6be00cc2.css.map": "/ZFN-Resto/static/css/main.6be00cc2.css.map",
-    "main.96d70442.js.map": "/ZFN-Resto/static/js/main.96d70442.js.map"
+    "main.74f4a888.css.map": "/ZFN-Resto/static/css/main.74f4a888.css.map",
+    "main.43c8efad.js.map": "/ZFN-Resto/static/js/main.43c8efad.js.map"
   },
   "entrypoints": [
-    "static/css/main.6be00cc2.css",
-    "static/js/main.96d70442.js"
+    "static/css/main.74f4a888.css",
+    "static/js/main.43c8efad.js"
   ]
 }
