@@ -22,6 +22,7 @@ function App() {
       {loading ? (
         <div className="flex h-screen justify-center items-center">
           <ReactLoading type="spinningBubbles" color="red" width={100} height={100} />
+          <h2 className="font-semibold mt-2">tunggu sebentar</h2>
         </div>
       ) : (
         <div>
